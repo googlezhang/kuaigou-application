@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "KuaiGouApplication",
+    "packageName": "com.chinakuaigou.app",
+    "packageFolder": "com/chinakuaigou/app",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "ZTM0ZDg3ZWI4MWRjY2RmOGRkNmMwM2U0NTI5NDAwMTU5MzBkMDg3NWVkYjZiMDlkOGI3NDI2YjVjM2NjM2ZjYmU1OTdjNGNkOTVlOGM0YmRlOWQ2NDczMDUxZWRjM2JmZDQ1YjU1NWRhMjEyOWJjNjUyZWZhNjNlMTAxZjllMWU=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "googlezhang",
+  "repository-name": "kuaigou-application"
+}
